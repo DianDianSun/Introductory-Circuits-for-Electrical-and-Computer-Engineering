@@ -29,7 +29,7 @@
   | **q : charge in C(Coulomb) unit:-1.602 *10^-19 C** |
   | **t : time in s**                                  |
   
-  <img src="/Users/ri/Library/Application Support/typora-user-images/image-20230409204147712.png" alt="image-20230409204147712" style="zoom:25%;" /> 
+  <img src="./image-20230409204147712.png" alt="image-20230409204147712" style="zoom:25%;" /> 
   
 - Voltage
   
@@ -163,7 +163,7 @@
   | ------------------------------------------------------------ |
   | A **prescribed** voltage, **regardless of** voltage across its terminals |
 
-  <img src="/Users/ri/Library/Application Support/typora-user-images/image-20230410094634906.png" alt="image-20230410094634906" style="zoom:25%;" /> 
+  <img src="./image-20230410094634906.png" alt="image-20230410094634906" style="zoom:25%;" /> 
 
 ---
 
@@ -241,7 +241,7 @@
   | The algebraic sum of all the currents entering any <mark>closed surface</mark> is zero |
   | ------------------------------------------------------------ |
 
-  <img src="/Users/ri/Documents/MARK_TEXT/image-20230420092545241.png" alt="image-20230420092545241" style="zoom:25%;" /> 
+  <img src="./image-20230420092545241.png" alt="image-20230420092545241" style="zoom:25%;" /> 
 
 ---
 
@@ -281,9 +281,9 @@ $$
 
 > **EXAMPLE**
 
-<img src="/Users/ri/Documents/MARK_TEXT/image-20230420145246482.png" alt="image-20230420145246482" style="zoom:25%;" /> 
+<img src="./image-20230420145246482.png" alt="image-20230420145246482" style="zoom:25%;" /> 
 
-<img src="/Users/ri/Documents/MARK_TEXT/image-20230420145436538.png" alt="image-20230420145436538" style="zoom:25%;" /> 
+<img src="./image-20230420145436538.png" alt="image-20230420145436538" style="zoom:25%;" /> 
 
 ---
 
@@ -369,15 +369,15 @@ $$
 
 - **EXAMPLE**
 
-<img src="/Users/ri/Documents/MARK_TEXT/image-20230420155758663.png" alt="image-20230420155758663" style="zoom:25%;" /> 
+<img src="./image-20230420155758663.png" alt="image-20230420155758663" style="zoom:25%;" /> 
 
-<img src="/Users/ri/Documents/MARK_TEXT/image-20230420155825199.png" alt="image-20230420155825199" style="zoom:25%;" /> 
+<img src="./image-20230420155825199.png" alt="image-20230420155825199" style="zoom:25%;" /> 
 
 - **Super Node**
 
   😛[SUPER NODE EXPLAIN](https://www.google.com/search?q=what%27s+the+super+node&rlz=1C5CHFA_enUS1035US1035&oq=what%27s+the+super+node&aqs=chrome..69i57j0i10i512l2j46i10i340i512l2j0i10i512l4.5467j0j15&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d9bd7f68,vid:khtZubT9K8E)
 
-  <img src="/Users/ri/Documents/MARK_TEXT/CleanShot 2023-04-20 at 17.01.02@2x.png" style="zoom:25%;" /> 
+  <img src="./CleanShot 2023-04-20 at 17.01.02@2x.png" style="zoom:25%;" /> 
 
    
 
