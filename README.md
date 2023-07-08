@@ -171,7 +171,7 @@
 
 - Dependent source( Controlled source)
 
-  <img src="/Users/ri/Library/Application Support/typora-user-images/image-20230410095133460.png" alt="image-20230410095133460" style="zoom:25%;" /> 
+  <img src="image-20230410095133460.png" alt="image-20230410095133460" style="zoom:25%;" /> 
 
   >**K**, **g**, **r** are all **const** factors
   >
@@ -345,7 +345,7 @@ $$
 > - defined as the voltage rise from the reference node
 > - Voltage across all branches can be represented by node voltages
 
-<img src="/Users/ri/Documents/MARK_TEXT/image-20230420153653348.png" alt="image-20230420153653348" style="zoom:25%;" /> 
+<img src="image-20230420153653348.png" alt="image-20230420153653348" style="zoom:25%;" /> 
 
 ----
 
